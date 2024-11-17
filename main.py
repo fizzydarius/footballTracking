@@ -1,7 +1,7 @@
 import requests
 import json
 import secret
-#https://api.sportsdata.io/v3/nfl/scores/json/ScoresBasicFinal/2024/10?key=f13c6666851a4daa9f2c2000386ca3dd
+
 
 
 
